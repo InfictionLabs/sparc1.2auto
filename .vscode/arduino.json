@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:mega",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "TOF_MPU6050_sensors_with_encoder_motortest_21112023_ver1_chitto.ino",
+    "port": "/dev/ttyACM0",
+    "configuration": "cpu=atmega2560"
+}

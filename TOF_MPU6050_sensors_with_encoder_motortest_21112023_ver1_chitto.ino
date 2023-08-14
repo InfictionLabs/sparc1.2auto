@@ -30,7 +30,7 @@ int startpin = 35;
 #define LOX1_ADDRESS 0x30
 #define LOX2_ADDRESS 0x31
 #define LOX3_ADDRESS 0x32
-#define LOX4_ADDRESS 0x32
+#define LOX4_ADDRESS 0x33
 int sensor1, sensor2, sensor3, sensor4;
 
 int tof1 = 0;
